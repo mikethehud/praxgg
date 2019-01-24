@@ -1,0 +1,8 @@
+{
+  "name": "praxgg-graphql",
+  "version": "1.0.0",
+  "description": "GraphQL-yoga server",
+  "main": "index.js",
+  "author": "mikethehud",
+  "license": "MIT"
+}
