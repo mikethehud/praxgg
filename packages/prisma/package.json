@@ -1,0 +1,8 @@
+{
+  "name": "praxgg-prisma",
+  "version": "1.0.0",
+  "description": "Prisma data access layer",
+  "main": "index.js",
+  "author": "mikethehud",
+  "license": "MIT"
+}
